@@ -10,6 +10,15 @@ Proporcionar uma experiência prática de consultoria em tecnologia, abordando a
 
 ---
 
+## 👥 Membros da Equipe
+
+- Integrante 1  
+- Integrante 2  
+- Integrante 3  
+- Integrante 4
+  
+---
+
 ## 🧩 Descritivo da Consultoria
 
 A consultoria teve como escopo a análise técnica do servidor `bmep967.neoenergia.net`, utilizado pela Neoenergia para operações críticas via **SFTP (Secure File Transfer Protocol)**.
@@ -72,15 +81,6 @@ O **HD do servidor encontra-se em estado crítico de ocupação**, o que pode le
 - **Mapa Mental:** *[Disponível em breve]*  
 - **Podcast:** *[Disponível em breve]*  
 - **Quiz Interativo:** *[Disponível em breve]*
-
----
-
-## 👥 Membros da Equipe
-
-- Integrante 1  
-- Integrante 2  
-- Integrante 3  
-- Integrante 4
 
 ---
 
