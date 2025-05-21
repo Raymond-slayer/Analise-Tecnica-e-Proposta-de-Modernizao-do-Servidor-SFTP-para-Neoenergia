@@ -19,6 +19,14 @@ Proporcionar uma experiência prática de consultoria em tecnologia, abordando a
   
 ---
 
+## 📁 Entregáveis do Projeto
+
+- **Mapa Mental:** *https://drive.google.com/drive/folders/1SJAlnDwK9ykZi01ZzDql2UsOSG0mSRMi?usp=drive_link*  
+- **Podcast:** *[Disponível em breve]*  
+- **Quiz Interativo:** *[Disponível em breve]*
+
+---
+
 ## 🧩 Descritivo da Consultoria
 
 A consultoria teve como escopo a análise técnica do servidor `bmep967.neoenergia.net`, utilizado pela Neoenergia para operações críticas via **SFTP (Secure File Transfer Protocol)**.
@@ -73,14 +81,6 @@ O **HD do servidor encontra-se em estado crítico de ocupação**, o que pode le
 - Custo estimado mensal: R$ 700 a R$ 1200
 
 **📌 Recomendação Final:** Adoção do **Modelo Híbrido**, combinando desempenho local com escalabilidade e segurança da nuvem.
-
----
-
-## 📁 Entregáveis do Projeto
-
-- **Mapa Mental:** *https://drive.google.com/drive/folders/1SJAlnDwK9ykZi01ZzDql2UsOSG0mSRMi?usp=drive_link*  
-- **Podcast:** *[Disponível em breve]*  
-- **Quiz Interativo:** *[Disponível em breve]*
 
 ---
 
