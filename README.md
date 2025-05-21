@@ -78,7 +78,7 @@ O **HD do servidor encontra-se em estado crítico de ocupação**, o que pode le
 
 ## 📁 Entregáveis do Projeto
 
-- **Mapa Mental:** *[Disponível em breve]*  
+- **Mapa Mental:** *https://drive.google.com/drive/folders/1SJAlnDwK9ykZi01ZzDql2UsOSG0mSRMi?usp=drive_link*  
 - **Podcast:** *[Disponível em breve]*  
 - **Quiz Interativo:** *[Disponível em breve]*
 
